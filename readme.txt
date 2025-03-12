@@ -1,3 +1,3 @@
 git is a version control system.
-git is fee software
+git is free software dostributed under the GPL
 git is a distributed version control system
